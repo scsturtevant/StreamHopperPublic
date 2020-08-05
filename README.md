@@ -13,8 +13,6 @@
 <h1 align = 'center'><a href="https://youtu.be/n6VAeDgY7sI">Stream Hopper Advertisement</a></h1>
 
 
-Check out the documentation page [here](https://msds698.github.io/2020-product-analytics-group-project-group1/)
-
 <h1 align = 'center'><b>Founding Members:</b></h1>
 
 <p align = 'center'>
